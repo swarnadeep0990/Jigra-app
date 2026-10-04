@@ -1,0 +1,6 @@
+{
+  "name": "PulseGuard Pro App",
+  "description": "Clinical app for continuous cardiac monitoring and AI triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
